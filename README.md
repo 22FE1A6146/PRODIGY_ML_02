@@ -1,5 +1,4 @@
 # PRODIGY_ML_02
-Here’s a **README.md** file for your GitHub repository based on the K-Means clustering algorithm and the sample dataset. You can copy this content into a `README.md` file and include it in your GitHub repository.
 
 ```markdown
 # Customer Segmentation using K-Means Clustering
